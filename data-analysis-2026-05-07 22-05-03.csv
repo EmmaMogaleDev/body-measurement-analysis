@@ -1,0 +1,15 @@
+measurement_pair,correlation
+Arm Length vs Leg Length,0.929
+Chest vs Waist,0.927
+Hip vs Thigh,0.892
+Bicep vs Forearm,0.889
+Forearm vs Wrist,0.883
+Waist vs Hip,0.88
+Chest vs Bicep,0.851
+Chest vs Hip,0.848
+Bicep vs Thigh,0.822
+Thigh vs Calf,0.795
+Calf vs Ankle,0.762
+Waist vs Thigh,0.744
+Bicep vs Calf,0.734
+Shoulder Breadth vs Chest,0.72

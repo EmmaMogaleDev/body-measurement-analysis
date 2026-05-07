@@ -1,0 +1,4 @@
+height_category,count,avg_arm_length,avg_leg_length,avg_torso_length,arm_to_height_pct,leg_to_height_pct,torso_to_height_pct
+Short (<160cm),216,44.68,70.67,57.87,28.55,45.16,36.98
+Average (160-175cm),1014,48.43,76.54,63.04,28.79,45.5,37.47
+Tall (>175cm),788,52.46,82.73,69.42,28.9,45.58,38.25

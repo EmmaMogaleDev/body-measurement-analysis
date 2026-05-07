@@ -1,0 +1,4 @@
+height_category,count,avg_chest,avg_waist,avg_hip,avg_bicep,avg_waist_hip_ratio
+Short (<160cm),216,94.93,82.57,98.44,28.13,0.836
+Average (160-175cm),1014,99.46,87.35,100.86,29.72,0.864
+Tall (>175cm),788,106.55,94.97,105.24,31.91,0.9
